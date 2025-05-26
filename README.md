@@ -1,6 +1,6 @@
-💼 Experience
+💼 Internship Web Development Experience
 
-🧩 Intern WordPress Developer — Purple Cow Industries
+🧩 Purple Cow Industries
 📆 January 2025 – March 2025
 
 - Designed and developed a fully responsive WordPress website to enhance the company’s online presence.  
@@ -11,7 +11,7 @@
 
 ---
 
-📝 WordPress Developer — Blog Articles Website
+📝 Blog Articles Website
 📆 January 2025 – March 2025
 
 - Optimized website speed and SEO, leading to better search engine rankings.  
