@@ -11,7 +11,7 @@
 
 ---
 
-📝 Blog Articles Website
+📝 Internship Blog Articles Website
 📆 January 2025 – March 2025
 
 - Optimized website speed and SEO, leading to better search engine rankings.  
