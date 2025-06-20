@@ -1,6 +1,7 @@
 💼 Internship Web Development Experience
 
 🧩 Purple Cow Industries
+"https://purplecowindustries.com.au/"
 📆 January 2025 – March 2025
 
 - Designed and developed a fully responsive WordPress website to enhance the company’s online presence.  
